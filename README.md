@@ -153,4 +153,4 @@ O pacote expõe apenas a entrada principal:
 
 ## Licença
 
-MIT. Consulte o arquivo de licença no repositório oficial.
+MIT. Consulte o arquivo de licença no repositório oficial. [LICENSE](./LICENSE)
