@@ -1,0 +1,9 @@
+tsconfig.json
+node_modules/
+src/
+*.tgz
+.vscode/
+.qodo
+test/
+package-lock.json
+yarn.lock
