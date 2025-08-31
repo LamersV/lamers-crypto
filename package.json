@@ -10,7 +10,7 @@
     "pub": "yarn publish --registry https://npm.pkg.github.com"
   },
   "dependencies": {
-    "@lamersv/error": "^1.0.0",
+    "@lamersv/error": "^1.0.1",
     "dotenv": "^17.2.1"
   },
   "devDependencies": {
