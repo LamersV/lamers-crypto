@@ -160,4 +160,4 @@ Package export map (build outputs in `dist/`):
 
 ## Licença
 
-MIT. Consulte o arquivo de licença no repositório oficial. [LICENSE](./LICENSE)
+MIT. See the license file in the official repository. [LICENSE](./LICENSE)
