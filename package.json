@@ -22,6 +22,12 @@
       "require": "./dist/index.js",
       "default": "./dist/index.js",
       "types": "./dist/index.d.ts"
+    },
+    "./exceptions": {
+      "import": "./dist/utils/exceptions.js",
+      "require": "./dist/utils/exceptions.js",
+      "default": "./dist/utils/exceptions.js",
+      "types": "./dist/utils/exceptions.d.ts"
     }
   },
   "publishConfig": {
